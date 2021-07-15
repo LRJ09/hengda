@@ -26,7 +26,7 @@
         </div>
         <div>
          <div class="details">
-          <p class="title">共找到<span>10</span>个楼盘</p>
+          <p class="title">一共找到<span>10</span>个楼盘</p>
          </div>
          <div class="houseList">
             <div>
