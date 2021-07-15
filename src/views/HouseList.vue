@@ -30,9 +30,9 @@
          </div>
          <div class="houseList">
             <div>
-             <vue-router>
+             
                 <img src="../assets/houseList/zhongjijindimeicheng.png" alt="">
-             </vue-router>
+             
             </div>
          </div>
         </div>
