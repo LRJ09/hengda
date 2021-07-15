@@ -3,7 +3,7 @@
     <el-container>
       <el-header class="header" height='114px' style="background-color:#fdf1ea">  
        <div class="hcontent">
-          <el-input class="search" placeholder="您可以输入楼盘名称" suffix-icon='el-icon-search' v-model="searchval"></el-input>
+          <el-input class="search" placeholder="您可以输入楼盘的名称" suffix-icon='el-icon-search' v-model="searchval"></el-input>
           <el-button class="searchbtn"  @click="select()">一键搜索</el-button>
        </div>
       </el-header>
