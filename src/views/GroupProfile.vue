@@ -1,7 +1,9 @@
 <template>
   <el-container class="container">
       <!-- 顶部 -->
-    <el-header class="nav">Header</el-header>
+    <el-header class="nav">
+     <xm-header></xm-header>
+    </el-header>
      <!-- 中间主体 -->
     
       <el-container class="about" > 
